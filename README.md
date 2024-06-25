@@ -32,6 +32,9 @@ There are 7 independent variables:
 Target variable:
 * math score
 
+# Student Performance Indicator Website Link :
+
+[Website](http://127.0.0.1:5000/predictdata)
 
 # AWS Deployment Link :
 
