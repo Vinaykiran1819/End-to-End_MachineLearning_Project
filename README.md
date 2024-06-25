@@ -61,9 +61,9 @@ Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predi
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
+Link : [EDA Notebook](notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/notebook/notebook/2_MODEL_TRAINING.ipynb)
+Link : [Model Training Notebook](notebook/2_MODEL_TRAINING.ipynb)
 
