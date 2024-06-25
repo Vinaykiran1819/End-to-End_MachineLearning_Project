@@ -1,6 +1,6 @@
 # End to End Machine Learning Project
 
-# Student Performance Indicator - Vinay Kiran Reddy
+# Student Exam Performance Indicator - Vinay Kiran Reddy
 ## Life cycle of Machine learning Project
 * Understanding the Problem Statement
 * Data Collection
@@ -32,7 +32,7 @@ There are 7 independent variables:
 Target variable:
 * math score
 
-# Student Performance Indicator Website :
+# Student Exam Performance Indicator Website :
 
 Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
 
