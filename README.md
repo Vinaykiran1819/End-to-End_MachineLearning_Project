@@ -32,18 +32,9 @@ There are 7 independent variables:
 Target variable:
 * math score
 
-# Student Performance Indicator Website Link :
+# Student Performance Indicator Website :
 
 Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
-
-# AWS Deployment Link :
-
-AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
-
-# Screenshot of UI
-
-![HomepageUI](./Screenshots/HomepageUI.jpg)
-
 
 # Approach for the project 
 
