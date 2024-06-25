@@ -15,6 +15,7 @@ This project understands how the student's performance (math scores) is affected
 
 ## 2) Data Collection
 Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+
 The data consists of 8 column and 1000 rows.
 
 ### Dataset Information
