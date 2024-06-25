@@ -10,10 +10,10 @@
 * Model Training
 * Choose best model
 
-## 1) Problem statement
+## Problem statement
 This project understands how the student's performance (math scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
 
-## 2) Data Collection
+## Data Collection
 Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 
 The data consists of 8 column and 1000 rows.
@@ -33,11 +33,11 @@ There are 7 independent variables:
 Target variable:
 * math score
 
-# Student Exam Performance Indicator Website :
+## Student Exam Performance Indicator Website :
 
 Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
 
-# Approach for the project 
+## Approach for the project 
 
 1. Data Ingestion : 
     * In Data Ingestion phase the data is first read as csv. 
@@ -60,11 +60,11 @@ Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predi
 5. Flask App creation : 
     * Flask app is created with User Interface to predict the student math_score inside a Web Application.
 
-# Exploratory Data Analysis Notebook
+## Exploratory Data Analysis Notebook
 
 Link : [EDA Notebook](notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
 
-# Model Training Approach Notebook
+## Model Training Approach Notebook
 
 Link : [Model Training Notebook](notebook/2_MODEL_TRAINING.ipynb)
 
