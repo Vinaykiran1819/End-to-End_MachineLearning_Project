@@ -29,16 +29,8 @@ Target variable:
 
 Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
 
-### Life cycle of Machine learning Project
-* Understanding the Problem Statement
-* Data Collection
-* Data Checks to perform
-* Exploratory data analysis
-* Data Pre-Processing
-* Model Training
-* Choose best model
-
 ## Approach for the project 
+
 
 1. Data Ingestion : 
     * In Data Ingestion phase the data is first read as csv. 
