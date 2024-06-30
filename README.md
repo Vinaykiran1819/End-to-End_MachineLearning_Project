@@ -25,9 +25,15 @@ There are 7 independent variables:
 Target variable:
 * math score
 
+
 ## Student Exam Performance Indicator Website :
 
 Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
+
+## Student Exam Performance Indicator UI :
+
+![Alt text](image_url)
+
 
 ## Approach for the project 
 
