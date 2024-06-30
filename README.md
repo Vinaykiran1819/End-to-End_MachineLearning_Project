@@ -32,7 +32,8 @@ Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predi
 
 ## Student Exam Performance Indicator UI :
 
-![Alt text]([image_url](https://github.com/Vinaykiran1819/Student_Performance_End-to-End_ML_Project/blob/main/Student_Exam_Performance_Indicator_UI.png?raw=true))
+![Student Exam Performance Indicator](https://github.com/Vinaykiran1819/Student_Performance_End-to-End_ML_Project/blob/main/Student_Exam_Performance_Indicator_UI.png?raw=true)
+
 
 
 ## Approach for the project 
