@@ -26,9 +26,9 @@ Target variable:
 * math score
 
 
-## Student Exam Performance Indicator Website :
+## Azure Deployment Link :
 
-Website Link : [Student Exam Performance Prediction](http://127.0.0.1:5000/predictdata)
+Website Link : [Student Exam Performance Prediction](https://studentperformancepredictionvinay.azurewebsites.net/predictdata)
 
 ## Student Exam Performance Indicator UI :
 
