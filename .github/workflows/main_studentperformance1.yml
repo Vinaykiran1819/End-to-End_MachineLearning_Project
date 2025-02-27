@@ -73,7 +73,7 @@ jobs:
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_E750CF93A0E44466B86DF76F33B303BE }}
 
       - name: 'Deploy to Azure Web App'
-        uses: azure/webapps-deploy@v3
+        uses: azure/webapps-deploy@v4
         id: deploy-to-webapp
         with:
           app-name: 'studentperformance1'
